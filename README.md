@@ -3,4 +3,27 @@ Likes:
   - Vue
   - Svelte
   - Typescript
+  - Lua
   - CSS/SCSS
+  - FiveM
+  - Game Design
+  - Reading
+  - UI/UX
+  - Figma
+  - Adobe XD
+  - Adove Illustrator
+  - Illustrations 
+  - Soen
+  - Leprous
+  - Soilwork
+  - Sabaton
+  - Vercel
+  - Gatsby
+  - VS Code
+  - GTA V
+  - Notion
+  - Pizza
+  - Burgers
+  - Fries
+  - Diet Coke
+  - Writing
