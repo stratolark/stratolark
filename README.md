@@ -1,4 +1,14 @@
-Likes:
+Hi, I'm stratolark(luis) a chilean fullstack software engineer. I've been progamming since I was in highscool, but only started going fulltime since 2018.
+
+🛠 My favorite tech stack at the moment (2022) is:
+ - React
+ - Next.js
+ - Typescript
+ - Tailwind
+ - vercel
+ - Go
+
+❤ Likes:
   - React
   - Vue
   - Svelte
@@ -27,4 +37,4 @@ Likes:
   - Fries
   - Diet Coke
   - Writing
-  - Twtich
+  - Twitch
