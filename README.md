@@ -6,10 +6,11 @@ Hi, I'm stratolark(luis) a chilean fullstack software engineer. I've been progam
  - Typescript
  - Tailwind
  - vercel
- - Go
+ - Node
 
 ❤ Likes:
   - React
+  - Go
   - Vue
   - Svelte
   - Typescript
