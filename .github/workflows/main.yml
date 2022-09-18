@@ -23,7 +23,8 @@ jobs:
           base: ""
           plugin_languages: yes
           plugin_languages_indepth: yes
-          commits_authoring: firstname lastname, username, username@users.noreply.github.com
+          plugin_languages_details: lines, bytes-size
+          plugin_languages_limit: 8
       - name: Icons
         uses: lowlighter/metrics@latest
         with:
