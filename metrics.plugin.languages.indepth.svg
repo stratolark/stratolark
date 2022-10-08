@@ -16,18 +16,18 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 1.22mb of code in 402 edited files across 60 commits</small>
+                <small>estimation from 1.22mb of code in 404 edited files across 63 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="230.83766343457552" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="230.83766343457552" y="0" width="164.49751680800026" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="395.3351802425758" y="0" width="25.647420520963546" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="420.9826007635393" y="0" width="23.86175208621913" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="444.8443528497584" y="0" width="8.298929017872226" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="453.14328186763066" y="0" width="6.856718132369337" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="229.92879256965944" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="229.92879256965944" y="0" width="165.6609907120743" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="395.5897832817338" y="0" width="25.546439628482972" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="421.1362229102167" y="0" width="23.767801857585138" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="444.90402476780184" y="0" width="8.26625386996904" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="453.17027863777093" y="0" width="6.829721362229102" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -77,8 +77,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>4.34k lines</div>
-                                <div>105 kB</div>
+                                <div>4.38k lines</div>
+                                <div>107 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -112,7 +112,7 @@
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M9.585.52a2.678 2.678 0 00-3.17 0l-.928.68a1.178 1.178 0 01-.518.215L3.83 1.59a2.678 2.678 0 00-2.24 2.24l-.175 1.14a1.178 1.178 0 01-.215.518l-.68.928a2.678 2.678 0 000 3.17l.68.928c.113.153.186.33.215.518l.175 1.138a2.678 2.678 0 002.24 2.24l1.138.175c.187.029.365.102.518.215l.928.68a2.678 2.678 0 003.17 0l.928-.68a1.17 1.17 0 01.518-.215l1.138-.175a2.678 2.678 0 002.241-2.241l.175-1.138c.029-.187.102-.365.215-.518l.68-.928a2.678 2.678 0 000-3.17l-.68-.928a1.179 1.179 0 01-.215-.518L14.41 3.83a2.678 2.678 0 00-2.24-2.24l-1.138-.175a1.179 1.179 0 01-.518-.215L9.585.52zM7.303 1.728c.415-.305.98-.305 1.394 0l.928.68c.348.256.752.423 1.18.489l1.136.174c.51.078.909.478.987.987l.174 1.137c.066.427.233.831.489 1.18l.68.927c.305.415.305.98 0 1.394l-.68.928a2.678 2.678 0 00-.489 1.18l-.174 1.136a1.178 1.178 0 01-.987.987l-1.137.174a2.678 2.678 0 00-1.18.489l-.927.68c-.415.305-.98.305-1.394 0l-.928-.68a2.678 2.678 0 00-1.18-.489l-1.136-.174a1.178 1.178 0 01-.987-.987l-.174-1.137a2.678 2.678 0 00-.489-1.18l-.68-.927a1.178 1.178 0 010-1.394l.68-.928c.256-.348.423-.752.489-1.18l.174-1.136c.078-.51.478-.909.987-.987l1.137-.174a2.678 2.678 0 001.18-.489l.927-.68zM11.28 6.78a.75.75 0 00-1.06-1.06L7 8.94 5.78 7.72a.75.75 0 00-1.06 1.06l1.75 1.75a.75.75 0 001.06 0l3.75-3.75z"/>
                         </svg>
-                        47 commits verified by GPG
+                        50 commits verified by GPG
                     </div>
                 </div>
             </section>
