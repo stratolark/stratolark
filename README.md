@@ -1,5 +1,4 @@
-Hi, I'm stratolark a software developer. I've been progamming since I was in highscool, fulltime since 2018.
-
+Hi, I'm stratolark a software developer. I've been progamming since I was in highscool.
 🛠 My favorite tech stack at the moment (2022) is:
  - Next.js
  - Typescript
