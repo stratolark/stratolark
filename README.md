@@ -1,5 +1,5 @@
 Hi, I'm stratolark a software developer. I've been progamming since I was in highscool.
-🛠 My favorite tech stack at the moment (2022) is:
+🛠 My favorite tech stack at the moment (2023) is:
  - Next.js
  - Typescript
  - Tailwind
