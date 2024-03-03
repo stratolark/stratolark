@@ -1,10 +1,12 @@
 Hi, I'm stratolark a software developer. I've been progamming since I was in highscool.
-🛠 My favorite tech stack at the moment (2023) is:
- - Next.js
+
+🛠 My favorite tech stack at the moment (2024) is:
+ - Remix.js
  - Typescript
  - Tailwind
- - vercel
+ - GCP
  - Figma
+ - Pizza 🍕
 
 <div align="center">
   
