@@ -3,9 +3,13 @@ Hi, I'm stratolark a software developer. I've been progamming since I was in hig
 🛠 My favorite tech stack at the moment (2024) is:
  - Remix.js
  - Typescript
+ - NestJs
  - Tailwind
+ - C#
+ - .NET
  - GCP
  - Figma
+ - BORBS 🦜
  - Pizza 🍕
 
 <div align="center">
