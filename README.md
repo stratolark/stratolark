@@ -1,16 +1,20 @@
-Hi, I'm stratolark a software developer. I've been progamming since I was in highscool.
+I build web applications, backend APIs, cloud-backed systems, and integration-heavy software. My work covers frontend delivery, backend/API development, production support, cloud infrastructure, AI-assisted engineering, and technical leadership.
 
-🛠 My favorite tech stack at the moment (2024) is:
- - Remix.js
- - Typescript
- - NestJs
- - Tailwind
- - C#
- - .NET
- - GCP
- - Figma
- - BORBS 🦜
- - Pizza 🍕
+## Current Focus
+
+- Rust and C#/.NET backend services.
+- Full-stack platform work with TypeScript, React, Node.js, Laravel/PHP, SQL, Docker, and GCP.
+- Cloud deployment, CI/CD, testing, reliability, and production support.
+- AI-assisted engineering with human review and technical judgment.
+- Technical leadership, documentation, estimates, and mentoring.
+
+## Tech
+
+**Languages:** TypeScript, JavaScript, Rust, C#, PHP, SQL, Python  
+**Frontend:** React, Remix/React Router, Next.js, Tailwind CSS, Mantine, Shadcnui, Zustand  
+**Backend:** Node.js, Laravel/PHP, ASP.NET Core, REST APIs, background services  
+**Cloud and DevOps:** GCP, Cloud Run, Cloud SQL, Docker, Kubernetes, GitHub Actions, GitLab pipelines, Cloudflare  
+**AI tools:** Codex, GitHub Copilot, ChatGPT, Gemini, Claude
 
 <div align="center">
   
